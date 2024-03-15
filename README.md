@@ -1,33 +1,33 @@
-# Elecciones 2023 - Resultados
+#                                          Elecciones 2023 - Resultados
 
 Este repositorio contiene el análisis de datos correspondientes al Ballotage de las elecciones por sección en Argentina en 2023.
 
-## Proceso de ETL (Extracción, Transformación y Carga)
+##    Proceso de ETL (Extracción, Transformación y Carga)
 
-### Extracción
+###    Extracción
 Se emplearon herramientas de análisis de datos en Python, específicamente la librería Pandas, para extraer los datos desde un archivo CSV que contenía los resultados de las elecciones por sección.
 
-### Transformación
+###    Transformación
 Durante la fase de transformación, se llevaron a cabo diversas operaciones, entre ellas:
 - Suma de los votos por sección para cada agrupación política ('LA LIBERTAD AVANZA' y 'UNION POR LA PATRIA').
 - Ordenamiento de los datos de mayor a menor según el total de votos.
 - Exportación de los datos transformados a un archivo CSV para facilitar su utilización en herramientas de visualización.
 
-### Carga
+###    Carga
 Los datos transformados se exportaron como un archivo CSV con el propósito de ser cargados en herramientas de visualización, como Power BI.
 
 El objetivo principal es posibilitar un análisis más profundo y una visualización interactiva de los resultados.
 
-## Archivos en el Repositorio
+##    Archivos en el Repositorio
 
 - **votos_por_seccion.csv:** Contiene los datos transformados con los votos por sección para cada agrupación política.
 
-## Herramientas Utilizadas
+##    Herramientas Utilizadas
 
 - **Python (Pandas):** Para la manipulación y análisis inicial de los datos.
 - **Power BI:** Como herramienta de visualización para un análisis más detallado y visual.
 
-## Uso
+##    Uso
 
 1. **Extracción:** Los datos pueden obtenerse desde la fuente original o mediante el uso del archivo CSV proporcionado en este repositorio.
    
