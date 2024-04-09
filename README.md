@@ -24,7 +24,7 @@ El objetivo principal es posibilitar un análisis más profundo y una visualizac
 
 ##    Herramientas Utilizadas
 
-- **Python (Pandas):** Para la manipulación y análisis inicial de los datos.
+- **Python (Numpy, Pandas, Matplotlib, Seaborn):** Para la manipulación y análisis inicial de los datos.
 - **Power BI:** Como herramienta de visualización para un análisis más detallado y visual.
 
 ##    Uso
