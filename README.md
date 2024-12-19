@@ -1,6 +1,6 @@
 #                                          Elecciones 2023 - Resultados
 
-Este repositorio contiene el análisis de datos correspondientes al Ballotage de las elecciones por sección en Argentina en 2023.
+Este repositorio contiene el análisis de datos por sección correspondientes al Ballotage de las elecciones en Argentina en 2023.
 
 ##    Proceso de ETL (Extracción, Transformación y Carga)
 
